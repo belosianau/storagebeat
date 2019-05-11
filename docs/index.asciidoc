@@ -1,0 +1,5 @@
+= Storagebeat Docs
+
+Welcome to the Storagebeat documentation.
+
+
